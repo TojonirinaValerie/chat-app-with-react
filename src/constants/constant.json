@@ -1,0 +1,14 @@
+{
+  "formMessage": 
+  {
+    "error": 
+    {
+        "invalidUserName": "Identifiant invalid: 4 caractères minimum",
+        "invalidPasswprd": "Mot de passe invalid: 8 caractères minimum",
+        "invalidMatchPassword": "Les 2 mots de passe sont différents",
+        "invalidEmail": "Veuillez entrer une adresse e-mail valide",
+        "invalidPhoneNumber": "Veuillez entrer un numéro avec un format valide. Exemples: 0320011122 ou +261320011122 ou 0202211122 ou +261202211122",
+        "requiredMessage": "Veuillez renseignez ce champ"
+    }
+  }
+}
